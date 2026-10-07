@@ -16,6 +16,7 @@ Kodları bilerek düzeltmeden, yazdığım günkü haliyle bıraktım. Her dosya
 | `ortalama_hesaplama.py` | Vize ve final notundan harf notunu bulur | 30.09.2026 |
 | `sekil_secme.py` | Üçgen ve dörtgen türünü kenar uzunluklarından belirler | 30.09.2026 |
 | `vucut_kitle_endeksi_hesaplama.py` | Boy ve kilodan vücut kitle endeksini hesaplar | 30.09.2026 |
+| `not_defteri.py` | Not ekleme, listeleme ve silme menüsü olan program | 07.10.2026 |
 
 ## Öğrendiklerim
 
