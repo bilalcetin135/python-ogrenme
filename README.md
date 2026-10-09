@@ -25,6 +25,6 @@ Değişkenler, koşullar, döngüler, listeler, sözlükler, kümeler, fonksiyon
 
 ## Sıradaki adımlar
 
-dosya işlemleri, modüller, ardından Pandas ve yapay zeka kütüphaneleri.
+Dosya işlemleri, modüller, ardından Pandas ve yapay zeka kütüphaneleri.
 
 
