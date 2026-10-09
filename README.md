@@ -17,10 +17,11 @@ Kodları bilerek düzeltmeden, yazdığım günkü haliyle bıraktım. Her dosya
 | `sekil_secme.py` | Üçgen ve dörtgen türünü kenar uzunluklarından belirler | 30.09.2026 |
 | `vucut_kitle_endeksi_hesaplama.py` | Boy ve kilodan vücut kitle endeksini hesaplar | 30.09.2026 |
 | `not_defteri.py` | Not ekleme, listeleme ve silme menüsü olan program | 07.10.2026 |
+| `kucuk_hesap_uygulamasi.py` | Para yatırma, çekme ve bakiye gösterme özellikli basit banka hesabı sınıfı | 09.10.2026 |
 
 ## Öğrendiklerim
 
-Değişkenler, koşullar, döngüler, listeler, sözlükler, kümeler ve fonksiyonlar.
+Değişkenler, koşullar, döngüler, listeler, sözlükler, kümeler, fonksiyonlar, hata yakalama ve sınıflar.
 
 ## Sıradaki adımlar
 
