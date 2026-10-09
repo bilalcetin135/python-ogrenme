@@ -2,7 +2,7 @@
 # Python Öğrenme Günlüğüm
 
 Python öğrenirken yazdığım alıştırmalar ve mini programlar.
-Kodları bilerek düzeltmeden, yazdığım günkü haliyle bıraktım. Her dosyanın en üstünde yazıldığı tarih ve o günkü bilgim yazıyor. Dosyaları 01.10.2026 tarihinde GitHub'a yükledim.
+Kodları bilerek düzeltmeden, yazdığım günkü haliyle bıraktım. Her dosyanın en üstünde yazıldığı tarih ve o günkü bilgim yazıyor.Dosyaların üstündeki tarihler kodun yazıldığı günü gösterir. Hepsini GitHub’a sonradan, 01.10.2026'dan itibaren yükledim.
 
 ## Dosyalar
 
