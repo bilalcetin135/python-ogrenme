@@ -18,6 +18,7 @@ Kodları bilerek düzeltmeden, yazdığım günkü haliyle bıraktım. Her dosya
 | `vucut_kitle_endeksi_hesaplama.py` | Boy ve kilodan vücut kitle endeksini hesaplar | 30.09.2026 |
 | `not_defteri.py` | Not ekleme, listeleme ve silme menüsü olan program | 07.10.2026 |
 | `kucuk_hesap_uygulamasi.py` | Para yatırma, çekme ve bakiye gösterme özellikli basit banka hesabı sınıfı | 09.10.2026 |
+| `not_defteri_sinif.py` | Not ekleme, listeleme ve silme menüsü olan program, sınıflarla yazılmış hali | 09.10.2026 |
 
 ## Öğrendiklerim
 
