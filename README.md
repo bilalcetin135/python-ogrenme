@@ -25,6 +25,6 @@ Değişkenler, koşullar, döngüler, listeler, sözlükler, kümeler, fonksiyon
 
 ## Sıradaki adımlar
 
-Hata yakalama (try / except), dosya işlemleri, modüller, ardından Pandas ve yapay zeka kütüphaneleri.
+dosya işlemleri, modüller, ardından Pandas ve yapay zeka kütüphaneleri.
 
 
